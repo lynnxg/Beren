@@ -57,7 +57,9 @@ h2{
 .top-nav ul{
 	list-style-type:none;
 }
-
+a {
+    text-decoration: none;
+}
 .top-nav ul li{
 	transition: all 300ms ease;
 	left:0px;
